@@ -123,7 +123,7 @@ I explore **practical cryptography** and lightweight encryption techniques for f
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nashzhee17&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=voidbit404&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -166,7 +166,7 @@ Telegram: [@test](https://t.me/test)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nashzhee17&color=00ffaa&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=voidbit404&color=00ffaa&style=flat-square)
 
 **Customized without limits**
 
