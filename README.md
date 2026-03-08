@@ -2,7 +2,7 @@
 
 # Hello, I'm Giovani 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Linux+Enthusiast;Coding+for+Fun;CLI+Developer;Fedora+%2B+Hyprland+User;Compiler+%26+Crypto+Explorer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Linux+Enthusiast;Security+Researcher;CLI+Developer;Fedora+%2B+Hyprland+User;Compiler+%26+Crypto+Explorer" />
 
 </div>
 
@@ -26,25 +26,42 @@
 
 # About Me
 
-Hello! I'm **Giovani**, a passionate coder who loves programming for fun.  
-I enjoy exploring Linux by customizing my environment, optimizing system performance, and building setups customized based on my requirements.  
-I also experiment with compilers to see how code can be transformed, optimized, and protected.  
-For me, coding is not just work — it's a playground for learning, building, and discovering new possibilities.
+Hello! I'm **Giovani**, a passionate coder and security enthusiast who enjoys programming, building tools, and exploring systems.
+
+I like experimenting with Linux, customizing my environment, and optimizing workflows for performance and productivity. My main setup is a **Fedora + Hyprland** environment built around a minimal, keyboard-driven workflow.
+
+I am also interested in **penetration testing and vulnerability research**, especially understanding how systems fail and how vulnerabilities appear in real-world applications.
+
+Things I enjoy doing:
+
+- Discovering vulnerabilities such as **SQL Injection (SQLi)**  
+- Finding **Cross-Site Scripting (XSS)** issues  
+- Testing **Remote Code Execution (RCE)** vectors  
+- Identifying **server misconfigurations and insecure deployments**  
+- Performing **reconnaissance and attack surface mapping**  
+- Discovering **exposed credentials and sensitive configuration files**
+
+I often search for **credentials leaks across different frameworks and technologies**, not limited to `.env` files but also various configuration files used by many frameworks and applications.
+
+For every vulnerability or issue discovered, I enjoy writing **clear technical reports explaining the impact and reproduction steps**.
+
+Most of my workflow relies on **custom-built tools** that I develop myself for recon, scanning, and vulnerability discovery.
 
 ---
 
 # Operating System Experience
 
-I work with multiple operating systems to fit my projects and experiments:
+I work with multiple operating systems depending on the project or experiment.
 
-- **Fedora (Primary)** – my main OS for everything: daily development, fully customized workflow, and system optimization  
-- **Arch Linux** – used occasionally for experiments and learning system internals  
-- **Kali Linux** – for fun labs and testing various tools  
-- **Windows** – mainly for RDP testing and occasional software deployment  
-- **VM Labs** – sandboxed environments for testing scripts, compilers, and builds  
+- **Fedora (Primary)** – main OS for development and security research  
+- **Arch Linux** – experimentation and learning system internals  
+- **Kali Linux** – security labs and pentesting environments  
+- **Windows** – RDP testing and deployment tasks  
+- **VM Labs** – isolated environments for exploit testing and experiments  
+
 ### Preferred Setup
 
-**Fedora + Hyprland** — fully customized, minimal, keyboard-driven, and optimized for performance.
+**Fedora + Hyprland** — minimal, customized, and optimized for speed.
 
 ---
 
@@ -57,7 +74,7 @@ I work with multiple operating systems to fit my projects and experiments:
 - JavaScript / TypeScript  
 - HTML / CSS  
 - React.js  
-- Swift
+- Swift  
 
 ### Tools & Platforms
 
@@ -70,6 +87,54 @@ I work with multiple operating systems to fit my projects and experiments:
 
 ---
 
+# Security Research & Pentesting
+
+I enjoy exploring how applications and systems behave under security testing.
+
+### Focus Areas
+
+- Web Application Security  
+- Vulnerability Discovery  
+- Reconnaissance & Enumeration  
+- Exploit Experiments  
+- Misconfiguration Analysis  
+- Credential Exposure Discovery  
+
+### Common Vulnerabilities I Test
+
+- SQL Injection (SQLi)  
+- Cross-Site Scripting (XSS)  
+- Remote Code Execution (RCE)  
+- Authentication / Authorization Issues  
+- Server Misconfigurations  
+- Sensitive File Exposure  
+
+### Credential Discovery
+
+One area I enjoy researching is **exposed credentials in web applications**.
+
+This includes searching for sensitive configuration files used by various frameworks and technologies, such as:
+
+- `.env` files  
+- framework configuration files  
+- backup files  
+- environment variables  
+- API keys and tokens  
+- database credentials  
+- cloud service credentials  
+
+### Workflow
+
+1. Reconnaissance and target mapping  
+2. Manual testing and fuzzing  
+3. Vulnerability discovery  
+4. Exploit validation  
+5. Writing detailed vulnerability reports  
+
+Many parts of this process rely on **custom CLI tools that I build myself**.
+
+---
+
 # Python Compilation & Code Protection
 
 I enjoy experimenting with **Python compilation and code protection**, combining learning and practical use.
@@ -78,44 +143,44 @@ Tools I frequently use:
 
 - **PyArmor** – Python code obfuscation  
 - **Nuitka** – compiling Python scripts into binaries  
-- **Cython** – turning Python code into compiled C extensions  
+- **Cython** – compiling Python into C extensions  
 
 Typical workflow:
 
 1. Develop Python scripts  
-2. Optimize and structure code  
-3. Compile or protect scripts  
-4. Share or deploy via GitHub/Pastebin  
+2. Optimize code structure  
+3. Compile or obfuscate scripts  
+4. Deploy or share via GitHub / Pastebin  
 
 ---
 
 # Cryptography & Security Experiments
 
-I explore **practical cryptography** and lightweight encryption techniques for fun and learning.
+I explore **practical cryptography** and lightweight encryption methods for learning and experimentation.
 
-**Algorithms I work with:**
+Algorithms I experiment with:
 
-- **XOR Encryption** – fast and lightweight obfuscation  
-- **RSA** – secure public/private key encryption  
+- **XOR Encryption** – simple obfuscation techniques  
+- **RSA** – public/private key encryption  
 - **DSA** – digital signatures and verification  
 
-**Projects I enjoy:**
+Projects I enjoy building:
 
 - CLI encryption tools  
-- Secure script distribution  
-- Payload encoding/decoding utilities  
-- Code protection experiments  
+- payload encoding/decoding utilities  
+- secure script distribution tools  
+- code protection experiments  
 
 ---
 
 # Hosting & Development Environment
 
-- **GitHub** – version control and collaboration  
-- **Pastebin** – sharing code snippets  
+- **GitHub** – project hosting and version control  
+- **Pastebin** – quick code sharing  
 - **Docker** – containerized environments  
 - **Netlify / Vercel** – web deployments  
-- **Windows RDP** – remote development  
-- **Local VMs** – sandboxed testing  
+- **Windows RDP** – remote development/testing  
+- **Local VMs** – sandboxed testing labs  
 
 ---
 
@@ -131,7 +196,7 @@ I explore **practical cryptography** and lightweight encryption techniques for f
 
 # Community & Open Source
 
-I support the open-source ecosystem and enjoy learning from, contributing to, and collaborating with the global developer community.
+I enjoy learning from the open-source community and experimenting with new tools and technologies.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-brightgreen?style=for-the-badge"/>
@@ -143,7 +208,7 @@ I support the open-source ecosystem and enjoy learning from, contributing to, an
 
 # Favorite Quote
 
-> "Talk is cheap. Show me the code."  
+> "F*** you, Microsoft."  
 > — Linus Torvalds
 
 ---
@@ -157,10 +222,10 @@ Telegram: [@test](https://t.me/test)
 
 # Fun Facts
 
-- I code for fun and enjoy optimizing every part of my workflow.  
-- Minimalist setups keep my environment clean and focused.  
-- Most tools I build are **CLI-first**.  
-- I like exploring compilers, encryption, and system performance tuning.  
+- I build most of my tools as **CLI-first utilities**  
+- I enjoy **finding vulnerabilities and documenting them**  
+- Minimal environments help me stay focused  
+- I prefer **custom tools over heavy frameworks**  
 
 ---
 
